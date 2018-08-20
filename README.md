@@ -1,4 +1,4 @@
-# minimal-react-webpack-babel-setup
+# Zone Movie React
 
 [![Build Status](https://travis-ci.org/rwieruch/minimal-react-webpack-babel-setup.svg?branch=master)](https://travis-ci.org/rwieruch/minimal-react-webpack-babel-setup) [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/)
 
@@ -20,6 +20,6 @@ Read more about it: [The Minimal React Webpack Babel Setup](https://www.robinwie
 * npm start
 * visit `http://localhost:8080/`
 
-# Testing
+## Testing
 
-*npm test
+* npm test
