@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<RatingList /> renders the component 1`] = `
+<Row
+  style={
+    Object {
+      "marginBottom": 20,
+    }
+  }
+  tag="div"
+>
+  <Col
+    sm="12"
+    tag="div"
+    widths={
+      Array [
+        "xs",
+        "sm",
+        "md",
+        "lg",
+        "xl",
+      ]
+    }
+  >
+    <h4>
+      Rating selector (
+      3
+      )
+    </h4>
+  </Col>
+  <Col
+    sm="12"
+    tag="div"
+    widths={
+      Array [
+        "xs",
+        "sm",
+        "md",
+        "lg",
+        "xl",
+      ]
+    }
+  >
+    <input
+      max="10"
+      min="0"
+      onChange={[Function]}
+      step="0.5"
+      type="range"
+      value={3}
+    />
+  </Col>
+</Row>
+`;
