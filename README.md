@@ -19,3 +19,7 @@ Read more about it: [The Minimal React Webpack Babel Setup](https://www.robinwie
 * npm install
 * npm start
 * visit `http://localhost:8080/`
+
+# Testing
+
+*npm test
